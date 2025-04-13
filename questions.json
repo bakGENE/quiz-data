@@ -1,162 +1,687 @@
-[
-  {
-    "id": "67f27e6e39338e5a7786b01d",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+[{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b01d"
   },
-  {
-    "id": "67f27e6e39338e5a7786b01e",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b01d"
   },
-  {
-    "id": "67f27e6e39338e5a7786b01f",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b01e"
   },
-  {
-    "id": "67f27e6e39338e5a7786b020",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b01e"
   },
-  {
-    "id": "67f27e6e39338e5a7786b021",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b01f"
   },
-  {
-    "id": "67f27e6e39338e5a7786b022",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b01f"
   },
-  {
-    "id": "67f27e6e39338e5a7786b023",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 4,
+  "options_ids": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b020"
   },
-  {
-    "id": "67f27e6e39338e5a7786b024",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b020"
   },
-  {
-    "id": "67f27e6e39338e5a7786b025",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b021"
   },
-  {
-    "id": "67f27e6e39338e5a7786b026",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b021"
   },
-  {
-    "id": "67f27e6e39338e5a7786b027",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 3,
+  "options_ids": [
+    "A",
+    "B",
+    "C"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b022"
   },
-  {
-    "id": "67f27e6e39338e5a7786b028",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b022"
   },
-  {
-    "id": "67f27e6e39338e5a7786b029",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 4,
+  "options_ids": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correct_option_ids": [
+    "A",
+    "D"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b023"
   },
-  {
-    "id": "67f27e6e39338e5a7786b02a",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b023"
   },
-  {
-    "id": "67f27e6e39338e5a7786b02b",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b024"
   },
-  {
-    "id": "67f27e6e39338e5a7786b02c",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b024"
   },
-  {
-    "id": "67f27e6e39338e5a7786b02d",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 4,
+  "options_ids": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correct_option_ids": [
+    "A",
+    "D"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b025"
   },
-  {
-    "id": "67f27e6e39338e5a7786b02e",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b025"
   },
-  {
-    "id": "67f27e6e39338e5a7786b02f",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b026"
   },
-  {
-    "id": "67f27e6e39338e5a7786b030",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b026"
   },
-  {
-    "id": "67f27e6e39338e5a7786b031",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 4,
+  "options_ids": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correct_option_ids": [
+    "A",
+    "D"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b027"
   },
-  {
-    "id": "67f27e6e39338e5a7786b032",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b027"
   },
-  {
-    "id": "67f27e6e39338e5a7786b033",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b028"
   },
-  {
-    "id": "67f27e6e39338e5a7786b034",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b028"
   },
-  {
-    "id": "67f27e6e39338e5a7786b035",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 3,
+  "options_ids": [
+    "A",
+    "B",
+    "C"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b029"
   },
-  {
-    "id": "67f27e6e39338e5a7786b036",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b029"
   },
-  {
-    "id": "67f27e6e39338e5a7786b037",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b02a"
   },
-  {
-    "id": "67f27e6e39338e5a7786b038",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b02a"
   },
-  {
-    "id": "67f27e6e39338e5a7786b039",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b02b"
   },
-  {
-    "id": "67f27e6e39338e5a7786b03a",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b02b"
   },
-  {
-    "id": "67f27e6e39338e5a7786b03b",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b02c"
   },
-  {
-    "id": "67f27e6e39338e5a7786b03c",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b02c"
   },
-  {
-    "id": "67f27e6e39338e5a7786b03d",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 3,
+  "options_ids": [
+    "A",
+    "B",
+    "C"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b02d"
   },
-  {
-    "id": "67f27e6e39338e5a7786b03e",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b02d"
   },
-  {
-    "id": "67f27e6e39338e5a7786b03f",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 4,
+  "options_ids": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correct_option_ids": [
+    "A",
+    "D"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b02e"
   },
-  {
-    "id": "67f27e6e39338e5a7786b040",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b02e"
   },
-  {
-    "id": "67f27e6e39338e5a7786b041",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b02f"
   },
-  {
-    "id": "67f27e6e39338e5a7786b042",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b02f"
   },
-  {
-    "id": "67f27e6e39338e5a7786b043",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b030"
   },
-  {
-    "id": "67f27e6e39338e5a7786b044",
-    "image": "https://github.com/tonuser/quiz-data/raw/main/undefined"
-  }
-]
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b030"
+  },
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b031"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b031"
+  },
+  "options_code": 4,
+  "options_ids": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correct_option_ids": [
+    "A",
+    "D"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b032"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b032"
+  },
+  "options_code": 4,
+  "options_ids": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correct_option_ids": [
+    "A",
+    "D"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b033"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b033"
+  },
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b034"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b034"
+  },
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b035"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b035"
+  },
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b036"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b036"
+  },
+  "options_code": 4,
+  "options_ids": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correct_option_ids": [
+    "A",
+    "D"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b037"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b037"
+  },
+  "options_code": 4,
+  "options_ids": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correct_option_ids": [
+    "A",
+    "D"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b038"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b038"
+  },
+  "options_code": 3,
+  "options_ids": [
+    "A",
+    "B",
+    "C"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b039"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b039"
+  },
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b03a"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b03a"
+  },
+  "options_code": 4,
+  "options_ids": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correct_option_ids": [
+    "A",
+    "D"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b03b"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b03b"
+  },
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b03c"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b03c"
+  },
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b03d"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b03d"
+  },
+  "options_code": 3,
+  "options_ids": [
+    "A",
+    "B",
+    "C"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b03e"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b03e"
+  },
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b03f"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b03f"
+  },
+  "options_code": 4,
+  "options_ids": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correct_option_ids": [
+    "A",
+    "D"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b040"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b040"
+  },
+  "options_code": 2,
+  "options_ids": [
+    "A",
+    "B"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b041"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b041"
+  },
+  "options_code": 4,
+  "options_ids": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correct_option_ids": [
+    "A",
+    "D"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b042"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b042"
+  },
+  "options_code": 4,
+  "options_ids": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correct_option_ids": [
+    "A",
+    "D"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b043"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b043"
+  },
+  "options_code": 4,
+  "options_ids": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "correct_option_ids": [
+    "A",
+    "D"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f27e6e39338e5a7786b044"
+  },
+  "photo_id": {
+    "$oid": "67d0ec4d0e670ea40086b044"
+  },
+  "options_code": 3,
+  "options_ids": [
+    "A",
+    "B",
+    "C"
+  ],
+  "correct_option_ids": [
+    "B"
+  ]
+}]
